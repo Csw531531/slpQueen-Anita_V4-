@@ -8,11 +8,11 @@
   "env": {
     "SESSION_ID": {
       "description": "Put your SESSION_ID here.",
-      "value": ""
+      "value": "{"noiseKey":{"private":{"type":"Buffer","data":"QJaED/uM1zgh390Y9AmYp2+Uz+HS+P5O69bMVKL5glM="},"public":{"type":"Buffer","data":"13cxo77hnT2F4GzNGKZZ4BwogVogmt+ky2gVSkhynzE="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"YKKvb3rse5atVXyqrMgr+lh84lzQMv81maIP2Tq+H0U="},"public":{"type":"Buffer","data":"SsBazE0hAUGnFXuWCX75ZGWszDPRN+lC8cjSKhEgGws="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"qD8Q7tg6PyFA4T+/c5ZCkVGKao0228/lfu+GbNev8Xc="},"public":{"type":"Buffer","data":"aok0pKIiGaWO/rW+XS64BjFdi0k8ADF+x1WQE9EYcU8="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"wACuPtvzLLjHSKp0svYjk2pLEaDlSWPNq5n7q/FWa0o="},"public":{"type":"Buffer","data":"WKolAzv3G383DvmfTAb/yT2C92ZZX0KI2zLeHPbncBE="}},"signature":{"type":"Buffer","data":"UlX1XGkGSRkAntOIwxI7MwhqbG4CFREOc9I14nKeJBQxOStI5HIB1MI79Ar4WI7+gWJ/JEng225mhlr0wXSNAQ=="},"keyId":1},"registrationId":29,"advSecretKey":"7IU2g0tS888VIfWBfJI3f/dul3Bn0uEuo8yHRR2bGKE=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"deviceId":"3ocNEhNSS9C6Kmkgk5uMlw","phoneId":"1f3a85ca-764d-457a-a4e9-28cbaedf215a","identityId":{"type":"Buffer","data":"e861kEUmlYdnlgHa7ekn5Y4yZEw="},"registered":true,"backupToken":{"type":"Buffer","data":"xiSWE6br8sh3Emso3VEVeZQZ1cg="},"registration":{},"pairingCode":"WKW18JDE","me":{"id":"94742340313:10@s.whatsapp.net","name":"~\n\nF\n\nE\n\nL\n\nI\n\nX\n\n======\n\nC\nL\nO\nN\nE\nD\n_______\n\n\nG\n\nU\n\nY"},"account":{"details":"CIWgoFcQ3qbOvQYYASAAKAA=","accountSignatureKey":"U1cU98VhIHILl+EQT7dHFZbiH3k13SqPVd39zdtTuhA=","accountSignature":"FcakQ/XYiwwuveOIpZPqJE2SBOPHRMPNyd1u5ZVVo5jBcwFYzomlwFabpdah57JNY4rD9HEdTYGm764HrlnpBg==","deviceSignature":"dGuVf+4khGEaN27OwySpuvJcCjEAYTa0gKTOQhEnXo4q3id3XD3L6LlYtFm6nfOA1CkY4LgWIq1nAYSCKJQiBg=="},"signalIdentities":[{"identifier":{"name":"94742340313:10@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BVNXFPfFYSByC5fhEE+3RxWW4h95Nd0qj1Xd/c3bU7oQ"}}],"platform":"smba","lastAccountSyncTimestamp":1739821931,"myAppStateKeyId":"AAAAADFT"}"
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. You can set `all | . | .!*`",
-      "value": "."
+      "value": "#"
     },
     "AUTO_REACT": {
       "description": "Set true to auto-react to messages.",
@@ -41,7 +41,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\").",
-      "value": "2349066528353"
+      "value": "94742340313"
     },
     "PUBLIC": {
       "description": "Worktype of your bot. Use public or private. If it is private, then only the bot number can use it. If public, then everyone can use it.",
@@ -49,7 +49,7 @@
     },
     "AUTHOR": {
       "description": "Put Sticker Pack Author_Name.",
-      "value": "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋",
+      "value": "ᎥᎷ ᏕᏋᏁᏬ Slp 🔊💗🍒",
       "required": false
     }
   },
